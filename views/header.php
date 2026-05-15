@@ -6,9 +6,9 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>udemy.riftcore.de</title>
-    <link href="https://utensils.riftcore.de/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://utensils.riftcore.de/highlight/styles/default.min.css">
+    <title>udemy.samwilliam.de</title>
+    <link href="https://utensils.samwilliam.de/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://utensils.samwilliam.de/highlight/styles/default.min.css">
     <link style="text/css" href="/ressources/css/app.css" rel="stylesheet">
 
 </head>
@@ -36,12 +36,12 @@
                 </div>
             </div>
         </div>
-        <div class="row flex-grow-1 w-100 layout-main-row">
+        <div class="row grow w-100 layout-main-row">
             <div class="col-2 d-none d-lg-flex layout-sidebar-col">
-                <aside class="ms-lg-3 flex-grow-1 layout-sidebar-aside">
+                <aside class="ms-lg-3 grow layout-sidebar-aside">
                     <?php require_once __DIR__ . '/sidebarLeft.php'; ?>
                 </aside>
             </div>
             <div class="col-12 col-lg-8 d-flex layout-content-col">
                 <div
-                    class="content content-panel shadow-sm border rounded-3 p-4 ms-3 mt-2 ms-lg-0 flex-grow-1 h-100 bg-light">
+                    class="content content-panel shadow-sm border rounded-3 p-4 ms-3 mt-2 ms-lg-0 grow h-100 bg-light">
