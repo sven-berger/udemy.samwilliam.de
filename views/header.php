@@ -17,7 +17,7 @@
     <header>
         <?php require_once __DIR__ . '/navbar.php'; ?>
     </header>
-    <main class=" d-flex flex-column flex-grow-1 mb-3">
+    <main class=" d-flex flex-column grow mb-3">
         <div class="d-lg-none px-3 mb-3">
             <div class="row g-2">
                 <div class="col-12 col-sm-6">
