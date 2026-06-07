@@ -1,10 +1,8 @@
-<div data-controller="hello">
-    <input data-hello-target="name" type="text">
+<?php
 
-    <button data-action="click->hello#greet">
-        Hallo bei HTML & CSS von BytersLab! Klicke hier, um eine Begrüßung zu erhalten.
-    </button>
+$num1 = 5;
+$num2 = 10;
 
-    <span data-hello-target="output">
-    </span>
-</div>
+$result = $num1 + $num2;
+
+echo "Das Ergebnis der Addition von $num1 und $num2 ist: $result";
