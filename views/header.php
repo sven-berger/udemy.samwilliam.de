@@ -42,6 +42,6 @@
                     <?php require_once __DIR__ . '/sidebarLeft.php'; ?>
                 </aside>
             </div>
-            <div class="col-12 col-lg-8 layout-content-col">
+            <div class="col-12 col-lg-8 test layout-content-col">
                 <div
                     class="content content-panel shadow-sm border rounded-3 p-4 ms-3 mt-2 ms-lg-0 grow h-100 bg-light">
