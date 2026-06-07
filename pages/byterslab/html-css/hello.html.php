@@ -1,7 +1,7 @@
 <?php
 
-$num1 = 25;
-$num2 = 25;
+$num1 = 230;
+$num2 = 345356;
 
 $result = $num1 + $num2;
 
